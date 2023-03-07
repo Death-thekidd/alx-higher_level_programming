@@ -33,3 +33,11 @@ The Python code will be saved in the environment variable $PYCODE
 ## 6-concat.py
 
 > Complete this source code to print Welcome to Holberton School!
+
+## 7-edges.py
+
+> Complete this source code
+
+## 8-concat_edges.py
+
+> Complete this source code to print object-oriented programming with Python, followed by a new line.
