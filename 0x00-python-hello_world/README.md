@@ -41,3 +41,23 @@ The Python code will be saved in the environment variable $PYCODE
 ## 8-concat_edges.py
 
 > Complete this source code to print object-oriented programming with Python, followed by a new line.
+
+## 9-easter_egg.py
+
+> Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+
+## 10-check_cycle.c
+
+> Write a function in C that checks if a singly linked list has a cycle in it.
+
+## 100-write.py
+
+> Write a Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line.
+
+## 101-compile
+
+> Write a script that compiles a Python script file.
+
+The Python file name will be stored in the environment variable $PYFILE
+
+The output filename has to be $PYFILEc (ex: export PYFILE=my_main.py => output filename: my_main.pyc)
