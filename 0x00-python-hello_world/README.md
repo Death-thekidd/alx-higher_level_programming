@@ -61,3 +61,7 @@ The Python code will be saved in the environment variable $PYCODE
 The Python file name will be stored in the environment variable $PYFILE
 
 The output filename has to be $PYFILEc (ex: export PYFILE=my_main.py => output filename: my_main.pyc)
+
+## 102-magic_calculation.py
+
+> Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
