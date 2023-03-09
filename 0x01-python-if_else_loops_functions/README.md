@@ -39,3 +39,19 @@
 ## 9-print_last_digit.py
 
 > Write a function that prints the last digit of a number.
+
+## 10-add.py
+
+> Write a function that adds two integers and returns the result.
+
+## 11-pow.py
+
+> Write a function that computes a to the power of b and return the value.
+
+## 12-fizzbuzz.py
+
+> Write a function that prints the numbers from 1 to 100 separated by a space.
+
+## 13-insert_number.c, lists.h
+
+> Write a function in C that inserts a number into a sorted singly linked list.
