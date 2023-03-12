@@ -15,3 +15,7 @@
 ## 3-infinite_add.py
 
 > Write a program that prints the result of the addition of all arguments
+
+## 4-hidden_discovery.py
+
+> Write a program that prints all the names defined by the compiled module hidden_4.pyc
