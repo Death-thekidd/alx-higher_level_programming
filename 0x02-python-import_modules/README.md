@@ -87,3 +87,7 @@
             110 RETURN_VALUE
 
 ```
+
+## 103-fast_alphabet.py
+
+> Write a program that prints the alphabet in uppercase, followed by a new line.
