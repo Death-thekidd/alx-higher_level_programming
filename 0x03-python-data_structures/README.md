@@ -47,3 +47,15 @@
 ## 11-delete_at.py
 
 > Write a function that deletes the item at a specific position in a list.
+
+## 12-switch.py
+
+> Complete the source code in order to switch value of a and b
+
+```py
+#!/usr/bin/python3
+a = 89
+b = 10
+# YOUR CODE GOES HERE. PLEASE REMOVE THIS LINE
+print("a={:d} - b={:d}".format(a, b))
+```
