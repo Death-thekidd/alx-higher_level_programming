@@ -31,3 +31,7 @@
 ## 7-add_tuple.py
 
 > Write a function that adds 2 tuples.
+
+## 8-multiple_returns.py
+
+> Write a function that returns a tuple with the length of a string and its first character.
